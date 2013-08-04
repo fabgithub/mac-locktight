@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SleepTight (Copied).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SleepTight.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>SleepTightAgent (Upgraded).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>SleepTightAgent.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>SleepTightPref (Upgraded).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SleepTightPref.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>29B97326FDCFA39411CA2CEA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5E29180104B7F30007BAE9C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5E29186104B7F30007BAE9C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B5E291A7104B7F31007BAE9C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4E85FC904803ED500A87BC9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4EE8D00047F0A6D00A87BC9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
